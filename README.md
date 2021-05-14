@@ -1,2 +1,2 @@
 # JODA2021
-Kurssin Johdanto datatieteeseen oppimispäiväkirja ja harjoitustyö.
+Johdanto datatieteeseen - kurssin oppimispäiväkirja ja harjoitustyö.
